@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azzam
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me azzamgarwan0@gmail.com
 
 <!---
